@@ -8,4 +8,3 @@
 - ⚡ I am always open to learn and explore technologies. 
 
 
--->
