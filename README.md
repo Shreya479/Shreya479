@@ -14,4 +14,4 @@
 <a href=https://www.linkedin.com/in/shreya-singh-a61a781a5 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="shreya" height="40" width="40" /></a>
 </p>
 
-
+<img src="https://www.linkedin.com/in/shreya-singh-a61a781a5">
