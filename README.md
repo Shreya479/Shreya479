@@ -10,7 +10,7 @@
 ## Connect with me :
 
 <p align="left">
-<a href=https://www.instagram.com/_shreya_singh_47/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="https://www.instagram.com/in/shreya_singh/" height="40" width="40" /></a>
+<a href=https://www.instagram.com/_shreya_singh_47/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg alt="https://www.instagram.com/in/shreya_singh/" height="40" width="40" /></a>
 <a href=https://www.linkedin.com/in/shreya-singh-a61a781a5 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="shreya" height="40" width="40" /></a>
 </p>
 
