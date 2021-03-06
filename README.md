@@ -14,6 +14,4 @@
 <a href=https://www.linkedin.com/in/shreya-singh-a61a781a5 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="shreya" height="40" width="40" /></a>
 </p>
 
-## Write Codes In :
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=9QW5VTii&id=06B50AC002FA87C0FD658A65EAA975202A07B6E5&thid=OIP.9QW5VTiiRI8KUXMz8QlEWAHaHZ&mediaurl=https%3a%2f%2fimage.flaticon.com%2ficons%2fpng%2f512%2f1183%2f1183669.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fRf505b95538a2448f0a517333f1094458%3frik%3d5bYHKiB1qeplig%26pid%3dImgRaw&exph=511&expw=512&q=java+icon&simid=608032288865783631&ck=5CA2DAD85D161886A0D36058BEFFA4B7&selectedIndex=14&FORM=IRPRST" height="40" width="40">
 <img src="https://github-readme-stats.vercel.app/api?username=Shreya479&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
