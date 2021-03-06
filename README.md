@@ -14,6 +14,5 @@
 <a href=https://www.linkedin.com/in/shreya-singh-a61a781a5 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="shreya" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shreya479&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
