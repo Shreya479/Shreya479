@@ -1,6 +1,6 @@
 ### When there is a Fault I Fix the NUT, yeah that’s ME 👋
 
-<img align="right" alt="GIF" src="https://i.gifer.com/1UEn.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 
 - 🔭 I’m currenlty a B.TECH student at Institute Of Technical Education And Research, Bhubaneshwar.
 - 🌱 I’m currently learning Data Structures And Algorithms.
