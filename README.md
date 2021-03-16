@@ -1,5 +1,7 @@
 ### When there is a Fault I Fix the NUT, yeah that’s ME 👋
 
+<img align="right" alt="GIF" src="https://i.gifer.com/1UEn.gif" width="500" height="320" />
+
 - 🔭 I’m currenlty a B.TECH student at Institute Of Technical Education And Research, Bhubaneshwar.
 - 🌱 I’m currently learning Data Structures And Algorithms.
 - ✨ The more I believe in my abilities, the more I will use my talent to produce outstanding results.
@@ -21,4 +23,5 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shreya479&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-
+## Languages Used :
+<img align="left" alt="Shreya's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya479" />
