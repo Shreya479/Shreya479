@@ -14,13 +14,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=Shreya479&label=Profile%20views&color=0e75b6&style=flat" alt="Shreya479" align="right" /> </p>
 
-## Connect with me 🤝🤝
+Connect with me 🤝🤝 
 
 <p align="left">
-<a href=https://newrealitiesoflife.wordpress.com/home/ target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wordpress.svg alt="https://newrealitiesoflife.wordpress.com/home/" height="40" width="40" /></a>
-<a href=https://www.linkedin.com/in/shreya-singh-a61a781a5 target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="shreya" height="40" width="40" /></a>
+<a href=https://newrealitiesoflife.wordpress.com/home/ target="blank"><img align="center" src=https://cdn.wideinfo.org/wp-content/uploads/2017/09/2000px-Wordpress_Shiny_Icon.svg_-1.png alt="https://newrealitiesoflife.wordpress.com/home/" height="40" width="40" /></a>
+<a href=https://www.linkedin.com/in/shreya-singh-a61a781a5 target="blank"><img align="center" src=https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png alt="shreya" height="40" width="40" /></a>
+<a href="mailto:shreyasingh47990@gmail.com?subject=subject&cc=cc@gmail.com"><img align="center" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" alt="shreya" height="40" width="40"/></a>
 </p>
 
-## GitHub's Stats 🚀🚀
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Shreya479&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+GitHub's Stats 🚀🚀 
+
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Shreya479&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya479&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
