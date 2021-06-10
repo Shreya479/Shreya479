@@ -2,12 +2,12 @@
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="300" height="250" />
 
 
-- 🔭 I am at present a B.TECH student at Institute Of Technical Education And Research, Bhubaneshwar.
+- 🔭 I am at present a B.TECH student.
 - 🌱 I am currently learning Data Structures And Algorithms.
 - ✨ The more I believe in my capabilites, the more I will produce salient upshots.
 - 💬 I stand as zestful and immensely motivated for my endeavors.
 - 📫 I am presently looking for MERN ventures.
-- 😄 Pronouns: She / Her
+- 😄 Pronouns: She / Her.
 - ⚡ I am always open to learn and explore technologies. 
 - 🌠 I castle in the air that I can’t let go off.
 
