@@ -2,14 +2,14 @@
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="300" height="250" />
 
 
- 🔭 I am at present a B.TECH student.
- 🌱 I am currently learning Data Structures And Algorithms.
- ✨ The more I believe in my capabilites, the more I will produce salient upshots.
- 💬 I stand as zestful and immensely motivated for my endeavors.
- 📫 I am presently looking for MERN ventures.
- 😄 Pronouns: She / Her.
- ⚡ I am always open to learn and explore technologies. 
- 🌠 I castle in the air that I can’t let go off.
+ 🔭 I am at present a B.TECH student. <br>
+ 🌱 I am currently learning Data Structures And Algorithms. <br>
+ ✨ The more I believe in my capabilites, the more I will produce salient upshots. <br>
+ 💬 I stand as zestful and immensely motivated for my endeavors.<br>
+ 📫 I am presently looking for MERN ventures.<br>
+ 😄 Pronouns: She / Her.<br>
+ ⚡ I am always open to learn and explore technologies. <br>
+ 🌠 I castle in the air that I can’t let go off.<br>
 
 
 <h3>Connect with me <img src="https://media.tenor.com/images/4afe5760358275e8ef22db8c726a4a2b/tenor.gif" width="20px"></h3> 
