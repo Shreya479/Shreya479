@@ -11,7 +11,7 @@
  ✨ The more I believe in my capabilites, the more I will produce salient upshots. <br>
 <h4>Find ME On <img src="https://media.tenor.com/images/4afe5760358275e8ef22db8c726a4a2b/tenor.gif" width="20px"></h4>
 <p align="left">
-<a href=https://newrealitiesoflife.wordpress.com/home/ target="blank"><img align="center" src=https://cdn.wideinfo.org/wp-content/uploads/2017/09/2000px-Wordpress_Shiny_Icon.svg_-1.png alt="https://newrealitiesoflife.wordpress.com/home/" height="40" width="40" /></a>
+<a href=https://newrealitiesoflife.wordpress.com/home/ target="blank"><img align="center" src=https://th.bing.com/th/id/OIP.KbrXRESASaLiyCsGhN8JcAHaHa?pid=ImgDet&rs=1  alt="https://newrealitiesoflife.wordpress.com/home/" height="40" width="40" /></a>
 <a href=https://www.linkedin.com/in/shreya-singh-a61a781a5 target="blank"><img align="center" src=https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png alt="shreya" height="40" width="40" /></a>
 <a href="mailto:shreyasingh47990@gmail.com?subject=subject&cc=cc@gmail.com"><img align="center" src="https://www.icone-png.com/png/6/6066.png" alt="shreya" height="40" width="40"/></a>
 <a href=https://www.deviantart.com/elgaf/gallery/ target="blank"><img align="center" src=https://th.bing.com/th/id/OIP.mxaRrvR47-NKPr28XPsLfQHaHa?pid=ImgDet&rs=1 alt="https://newrealitiesoflife.wordpress.com/home/" height="40" width="40" /></a>
