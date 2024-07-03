@@ -8,16 +8,11 @@ When there is a Fault I Fix the NUT, yeah that’s ME <img width="30px" src="htt
  ⚡ I am always open to learn and explore technologies. <br>
  🌠 I castle in the air that I can’t let go off.<br>
  ✨ The more I believe in my capabilites, the more I will produce salient upshots. <br>
-<h4>Find ME On <img src="https://media.tenor.com/images/4afe5760358275e8ef22db8c726a4a2b/tenor.gif" width="20px"></h4>
+<h4>Find ME On ---> </h4>
 <p align="left">
+ <a href="mailto:shreyasingh47990@gmail.com?subject=subject&cc=cc@gmail.com"><img align="center" src="https://www.icone-png.com/png/6/6066.png" alt="shreya" height="40" width="40"/></a>
 <a href=https://newrealitiesoflife.wordpress.com/home/ target="blank"><img align="center" src=https://th.bing.com/th/id/OIP.KbrXRESASaLiyCsGhN8JcAHaHa?pid=ImgDet&rs=1  alt="https://newrealitiesoflife.wordpress.com/home/" height="40" width="40" /></a>
-<a href=https://www.linkedin.com/in/shreya-singh-a61a781a5 target="blank"><img align="center" src=https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png alt="shreya" height="40" width="40" /></a>
-<a href="mailto:shreyasingh47990@gmail.com?subject=subject&cc=cc@gmail.com"><img align="center" src="https://www.icone-png.com/png/6/6066.png" alt="shreya" height="40" width="40"/></a>
-<a href=https://www.deviantart.com/elgaf/gallery/ target="blank"><img align="center" src=https://th.bing.com/th/id/OIP.mxaRrvR47-NKPr28XPsLfQHaHa?pid=ImgDet&rs=1 alt="https://newrealitiesoflife.wordpress.com/home/" height="40" width="40" /></a>
+<a href=https://www.deviantart.com/elgaf/gallery/ target="blank"><img align="center" src=https://www.deviantart.com/happy-birthdays/art/Devart-logo-659613205 alt="https://www.deviantart.com/happy-birthdays/art/Devart-logo-659613205" height="40" width="40" /></a>
 </p>
-<details>
-    <summary> <samp>&#9776; Read More</samp></summary>
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Shreya479&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />                          <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya479&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
- <img src="https://github-profile-trophy.vercel.app/?username=Shreya479&theme=gruvbox" />
- </details>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya479&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </samp>
