@@ -1,6 +1,6 @@
 <samp>
-### When there is a Fault I Fix the NUT, yeah that’s ME <img width="30px" src="https://media.tenor.com/images/8c62f4bdbf2f2a1d1f702c3550693e79/tenor.gif"><img src="https://komarev.com/ghpvc/?username=Shreya479&label=Profile%20views&color=0e8746&style=flat" alt="Shreya479" align="right" /> </p> <hr>
-<img align="right" alt="GIF" src="https://camo.githubusercontent.com/ac76f7fbb4f661ae4b87bfd10fa5103206e917f5f50522fcc9268504cd38abae/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e6769663f6369643d6563663035653437707a69327270696730766338706a757372613868696169316239317a676979777662756275397675267269643d67697068792e676966" width="300" height="250" />
+When there is a Fault I Fix the NUT, yeah that’s ME <img width="30px" src="https://media.tenor.com/images/8c62f4bdbf2f2a1d1f702c3550693e79/tenor.gif"><img src="https://komarev.com/ghpvc/?username=Shreya479&label=Profile%20views&color=0e8746&style=flat" alt="Shreya479" align="right" /> </p> <hr>
+<img align="right" alt="GIF" src="https://giphy.com/embed/HscDLzkO8EOTmgkhQP" width="300" height="250" />
  🔭 I am at present a Full Stack Java Developer. <br>
  💬 I stand as zestful and immensely motivated for my endeavors.<br>
  📫 I am presently looking for new ventures.<br>
