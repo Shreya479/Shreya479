@@ -14,6 +14,6 @@ I have a strong background in:
 I'm always open to connecting with new people and discussing interesting projects. Feel free to reach out: <br>
  <a href="mailto:shreyasingh47990@gmail.com?subject=subject&cc=cc@gmail.com"><img align="center" src="https://www.icone-png.com/png/6/6066.png" alt="shreya" height="40" width="40"/></a>
 <a href=https://newrealitiesoflife.wordpress.com/home/ target="blank"><img align="center" src=https://th.bing.com/th/id/OIP.KbrXRESASaLiyCsGhN8JcAHaHa?pid=ImgDet&rs=1  alt="https://newrealitiesoflife.wordpress.com/home/" height="40" width="40" /></a>
-<a href=https://www.deviantart.com/elgaf/gallery/ target="blank"><img align="center" src="https://www.pngwing.com/en/free-png-aghyc" alt="https://www.deviantart.com/happy-birthdays/art/Devart-logo-659613205" height="40" width="40" /></a>
+<a href=https://www.deviantart.com/elgaf/gallery/ target="blank"><img align="center" src="https://www.cleanpng.com/png-computer-icons-rsum-linkedin-logo-job-hunting-5121316/" alt="https://www.deviantart.com/happy-birthdays/art/Devart-logo-659613205" height="40" width="40" /></a>
 </p>
 </samp>
