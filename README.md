@@ -1,5 +1,5 @@
 <samp>
-A passionate developer with experience in web development, Java, Spring Boot, React, and more. Here you'll find a collection of my projects and experiments <img width="30px" src="https://media.tenor.com/images/8c62f4bdbf2f2a1d1f702c3550693e79/tenor.gif"><img src="https://komarev.com/ghpvc/?username=Shreya479&label=Profile%20views&color=0e8746&style=flat" alt="Shreya479" align="right" /> </p> <hr>
+A passionate developer with experience in web development, Java, Spring Boot, React, and more. Here you'll find a collection of my projects and experiments <img width="30px" src="https://media.tenor.com/images/8c62f4bdbf2f2a1d1f702c3550693e79/tenor.gif"> </p> <hr>
  
 ## About Me
 I'm a software developer with a keen interest in creating efficient and scalable web applications. My journey in technology includes:
